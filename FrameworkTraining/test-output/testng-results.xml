@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16913" started-at="2018-07-16T17:22:06Z" finished-at="2018-07-16T17:22:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16913" started-at="2018-07-16T17:22:06Z" finished-at="2018-07-16T17:22:22Z">
+      <class name="com.Altimetrik.Framework.TrainingTestSuite.TrainingTests">
+        <test-method status="PASS" signature="initDriver()" name="initDriver" is-config="true" duration-ms="13133" started-at="2018-07-16T17:22:06Z" finished-at="2018-07-16T17:22:19Z">
+        </test-method>
+        <test-method status="PASS" signature="openDriverTest()" name="openDriverTest" duration-ms="2953" started-at="2018-07-16T17:22:19Z" finished-at="2018-07-16T17:22:22Z">
+        </test-method>
+        <test-method status="PASS" signature="quit()" name="quit" is-config="true" duration-ms="819" started-at="2018-07-16T17:22:22Z" finished-at="2018-07-16T17:22:22Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

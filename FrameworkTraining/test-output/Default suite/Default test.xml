@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="AUY-LT-204" name="com.Altimetrik.Framework.TrainingTestSuite.TrainingTests" tests="1" failures="0" timestamp="16 Jul 2018 20:22:22 GMT" time="16.913" errors="0">
+  <testcase name="openDriverTest" time="2.953" classname="com.Altimetrik.Framework.TrainingTestSuite.TrainingTests"/>
+</testsuite>
